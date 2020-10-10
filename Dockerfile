@@ -1,4 +1,4 @@
-FROM girishn.jfrog.io/docker-node-virtual/alpine:3.11.5 
+FROM girishn.jfrog.io/docker/alpine:3.11.5 
 
 CMD printf "\nCONGRATULATIONS!!!\n\nYou have just set up your first Docker repository with the new JFrog Platform!\n\n"
 
